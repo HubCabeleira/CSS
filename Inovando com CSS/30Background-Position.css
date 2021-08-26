@@ -1,0 +1,18 @@
+/* DOCUMENT CSS */
+BODY{
+	background-color: black;
+	background-image:url(191-broom-constellation-cygnus-wallpaper-preview.jpg);
+	background-repeat: repeat-y;
+	background-attchment:fixed;
+/*	background-position: 200 00;		*/
+/*	background-position: 200 00;		*/
+/*	background-position: top left;		*/
+/*	background-position: top center;	*/
+/*	background-position: top right;		*/
+/*	background-position: center left;	*/
+	background-position: center center;	
+/*	background-position: center right;	*/
+/*	background-position: bottom left;	*/
+/*	background-position: bottom center;	*/
+/*	background-position: bottom right;	*/
+}

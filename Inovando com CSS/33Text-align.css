@@ -1,0 +1,24 @@
+/*  CSS Document */
+BODY {
+	color:blue;
+	}
+H1 {
+	color:#00ff00;
+	text-align:center;
+	}
+H2 {
+	color:rgb(255,0,0);
+	}
+H3{
+	color:rgb(200,0,0);
+	}
+P {
+	text-align:justify;
+	}
+/* p.date {
+	text-aling:left;
+	} 
+   p.main {
+   	text-aling:right;
+   }
+*/

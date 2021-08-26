@@ -1,0 +1,34 @@
+/*CSS Documente */
+body{
+	background-image: Url("Estação de jogos.jpg");
+	}	
+P {
+	background-color:white;
+	}
+H1{
+	background-color:white;
+	}
+OL{
+	background-color:white;
+	}
+UL{
+	background-color:white;
+	}
+#c1{
+	color:orange;
+	background-color:white;
+	}
+#c1-1 {
+	color: gold;
+	background-color:white;
+	}
+#c1-2 {
+	color: red;
+	background-color:white;
+	}
+#c1-3 {
+	color: blue;
+	background-color:white;
+	}
+
+

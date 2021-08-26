@@ -1,0 +1,7 @@
+/*CSS Document */
+#Menu ul li.Home a {background-position: 0px 0px;}
+#Menu ul li.Agente a {background-position: -91px 0px;}
+#Menu ul li.Contatio a {background-position: -181px 0px;}
+#Menu ul li.Home a:hover {background-position: 0px 0px;}
+#Menu ul li.Agente a:hover {background-position: -91px 0px;}
+#Menu ul li.Contatio a:hover {background-position: -181px 0px;}

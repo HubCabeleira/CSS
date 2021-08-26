@@ -1,0 +1,13 @@
+/* CSS Document */
+BODY {
+	background-image:url("quadronegro1.jpg");
+	color:white;
+	}
+P {
+	text-indent: 50;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	font-style: oblique;
+/*	font-style: italic;
+	font-style: normal;	*/
+	
+	}

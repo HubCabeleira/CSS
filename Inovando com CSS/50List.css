@@ -1,0 +1,34 @@
+/* CSS Document */
+BODY {
+	background-image:url("quadronegro1.jpg");
+	color:white;
+	font-size:medium;
+	}
+P {
+	text-indent: 50;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	font-style: oblique;
+	font-size:small;		
+	}
+A:link {	
+	color: yellow;
+	}
+A:visited {
+	color: white;
+	}
+A:hover {
+	color: pink;
+	}
+A:active {
+	color: cyan;
+	}
+UL {
+	list-style-type: circle;
+/*	list-style-type: square;
+	list-style-image: url("Icone_List.jpg"); */
+	}
+OL {
+/*	list-style-type: lower-alpha;	*/
+	list-style-type: upper-roman;	
+	}
+

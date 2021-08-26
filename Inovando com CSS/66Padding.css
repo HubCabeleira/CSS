@@ -1,0 +1,47 @@
+/*CSS Documente */
+BODY{
+	background-image: Url("Estação de jogos.jpg");
+	margin: 50px 50px 50px 50px;
+	}	
+P {
+	background-color:white;
+	padding-left: 50px;
+	}
+H1{
+	background-color:white;
+	}
+OL{
+	background-color:white;
+	}
+UL{
+	background-color:white;
+	}
+#C1{
+	color:orange;
+	background-color:white;
+	}
+#C1-1 {
+	color: gold;
+	background-color:white;
+	}
+#C1-2 {
+	color: red;
+	background-color:white;
+	}
+#C1-3 {
+	color: blue;
+	background-color:white;
+	}
+#C1-4 {
+	color: green;
+	background-color:white;
+	}
+SPAN.ELEMENTO {
+	color: red;
+	}
+#virtual{
+	background: #FFEAEA;
+	}
+#tabuleiros{
+	background: #FFF7DD;
+	}

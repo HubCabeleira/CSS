@@ -1,0 +1,11 @@
+/* CSS DOCUMENT */
+body {
+	background-color:orange;
+	}
+#imagem {
+	float:left;
+	width:1100px; 
+	}
+p {
+	clear:both;
+	}

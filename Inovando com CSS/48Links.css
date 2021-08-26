@@ -1,0 +1,24 @@
+/* CSS Document */
+BODY {
+	background-image:url("quadronegro1.jpg");
+	color:white;
+	font-size:medium;
+	}
+P {
+	text-indent: 50;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	font-style: oblique;
+	font-size:small;		
+	}
+A:link {	
+	color: yellow;
+	}
+A:visited {
+	color: white;
+	}
+A:hover {
+	color: pink;
+	}
+A:active {
+	color: cyan;
+	}

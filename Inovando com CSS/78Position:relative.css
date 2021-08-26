@@ -1,0 +1,18 @@
+/* CSS Document */
+#flor1 {
+    position:relative;
+    left: 10px;
+    bottom: 0px;
+}
+
+#flor2 {
+    position:relative;
+    left: 10px;
+    bottom: 50px;
+}
+
+#flor3 {
+    position:relative;
+    left: 10px;
+    bottom: 100px;
+}

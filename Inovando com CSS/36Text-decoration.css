@@ -1,0 +1,24 @@
+/*  CSS Document */
+BODY {
+	color:blue;
+	}
+H1 {
+	text-decoration:overline;
+	text-align:center;
+	text-decoration:overline;
+	}
+H2 {
+	color:rgb(255,0,0);
+	text-decoration:underline;
+	}
+H3{
+	color:#ff5560;
+	text-decoration:line-through;
+	}
+P {
+	text-align:justify;
+	text-decoration:blink;
+	}
+A {
+	text-decoration:none;
+}

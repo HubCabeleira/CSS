@@ -1,0 +1,10 @@
+/* CSS Documente */
+BODY {
+	background-image:url("Estação de jogos.jpg");
+	}
+A.tabuleiro{
+	color:lime;
+	}
+A.virtuais{
+	color:cyan;
+	}

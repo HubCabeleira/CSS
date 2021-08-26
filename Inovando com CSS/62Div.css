@@ -1,0 +1,41 @@
+/*CSS Documente */
+BODY{
+	background-image: Url("Estação de jogos.jpg");
+	}	
+P {
+	background-color:white;
+	}
+H1{
+	background-color:white;
+	}
+OL{
+	background-color:white;
+	}
+UL{
+	background-color:white;
+	}
+#C1{
+	color:orange;
+	background-color:white;
+	}
+#C1-1 {
+	color: gold;
+	background-color:white;
+	}
+#C1-2 {
+	color: red;
+	background-color:white;
+	}
+#C1-3 {
+	color: blue;
+	background-color:white;
+	}
+SPAN.ELEMENTO {
+	color: red;
+	}
+#virtual{
+	background: #FFEAEA;
+	}
+#tabuleiros{
+	background: #FFF7DD;
+	}
